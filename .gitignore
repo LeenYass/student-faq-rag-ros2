@@ -1,4 +1,6 @@
+build/
+install/
+log/
 vectorstore/
 __pycache__/
 *.pyc
-rag_env/

@@ -1,0 +1,72 @@
+[registration]
+Course registration at Algonquin College is managed through the ACSIS system, which students can access using their college credentials. Full-time students are typically automatically enrolled in their required courses once tuition fees are paid, while part-time students must manually select and register for courses through the system.
+
+Students are responsible for reviewing their course timetable to ensure all required courses are included and there are no conflicts. It is important to complete registration before the deadline to avoid losing access to courses or delays in starting the semester.
+
+If a student wishes to change or drop a course, they must do so within the official add/drop period. After this deadline, changes may not be permitted or may result in academic or financial penalties.
+
+Students experiencing issues with registration, such as missing courses or system errors, should contact the Registrar’s Office. Planning ahead and checking registration status early can help avoid last-minute problems and ensure a smooth start to the semester.
+
+[tuition]
+Tuition fees at Algonquin College must be paid by the specified deadline to confirm enrollment in a program. New students are required to pay a non-refundable tuition deposit, typically around 500 CAD, to secure their place in their program.
+
+There are several payment methods available, including online banking, credit card, and other approved payment options. Students should ensure that payments are made early to avoid processing delays that could impact registration status.
+
+Students receiving financial aid, such as OSAP, may qualify for a fee deferral. This allows them to delay payment until funding is received, but they must ensure that all required documentation is submitted on time.
+
+Failure to pay tuition fees by the deadline may result in deregistration from courses. Students are encouraged to regularly check their account balance and payment status through the student portal. For any payment-related issues, students should contact the financial services office for assistance.
+
+[library]
+The Algonquin College Library provides students with access to a wide range of academic resources, including books, journals, and online databases. These resources support research, assignments, and overall academic success.
+
+Students can borrow physical materials such as textbooks and reference books or access digital resources remotely through the library website. The library also provides access to computers, printing services, and specialized software needed for coursework.
+
+Study spaces are available for both individual and group work. Quiet zones are designated for focused study, while collaborative areas allow students to work together on projects.
+
+Librarians are available to assist students with research, finding credible sources, and using citation styles such as APA or MLA. Workshops and tutorials are also offered to help students improve their research and academic writing skills.
+
+Using library services effectively can significantly improve the quality of academic work and help students succeed in their studies.
+
+[advising]
+Academic advising services at Algonquin College help students make informed decisions about their education and stay on track toward graduation. Advisors provide guidance on course selection, program requirements, and academic policies.
+
+Students are encouraged to meet with an academic advisor if they are unsure about their course schedule, experiencing academic difficulties, or considering changing their program. Advisors can help clarify prerequisites, course sequencing, and progression requirements.
+
+Academic advisors also assist students in understanding college regulations, deadlines, and academic standing. They can recommend strategies to improve performance and help students develop a plan to achieve their academic goals.
+
+Appointments with advisors can usually be booked online, and some services may also be available through drop-in sessions. Preparing questions in advance can make advising sessions more effective.
+
+Regular communication with an academic advisor can help students avoid mistakes, stay organized, and successfully complete their program requirements.
+
+[graduation]
+To graduate from Algonquin College, students must successfully complete all required courses in their program and meet the minimum grade requirements. Each program has specific criteria that must be fulfilled before a student is eligible to graduate.
+
+Students are typically required to apply for graduation through the Academic Planner or student portal. It is important to verify that all academic requirements have been met before submitting the application.
+
+In addition to academic requirements, students must ensure that all financial obligations, such as tuition and fees, are fully paid. Outstanding balances may delay the graduation process.
+
+Convocation ceremonies are held to celebrate the achievements of graduating students. Participation in convocation is optional but provides an opportunity for students to receive recognition for their accomplishments.
+
+Students should regularly review their academic progress and consult with academic advisors to ensure they are on track for graduation and aware of all necessary steps.
+
+[student_support]
+Algonquin College offers a variety of student support services to help students succeed academically, professionally, and personally. These services include counseling, accessibility services, career support, and technical assistance.
+
+Counseling services provide support for mental health, stress management, and personal challenges. Students can access confidential counseling sessions to help them cope with academic and personal pressures.
+
+Accessibility services are available for students with disabilities. These services provide accommodations such as extended exam time, note-taking support, and assistive technologies.
+
+Career services help students prepare for employment by offering resume reviews, interview preparation, and job search guidance. Workshops and career events are also available to connect students with potential employers.
+
+Information Technology (IT) support assists students with login issues, account access, and software problems. Students can contact the Help Desk for technical assistance.
+
+Using these support services can greatly enhance the student experience and improve overall success.
+
+[grades]
+Students can view their grades through the ACSIS student portal by logging in with their college credentials. Final grades are posted after each semester ends, and mid-term grades may also be visible depending on the course.
+
+If a student believes a grade is incorrect, they should first contact their professor to discuss the assessment. If the issue is not resolved, a formal grade appeal can be submitted through the Registrar's Office within the specified deadline.
+
+Academic standing is determined based on GPA and is visible in the student portal. Students who fall below the required GPA may be placed on academic probation and should contact an academic advisor for guidance.
+
+Grade reports and transcripts can also be requested through the Registrar's Office for official documentation purposes.
